@@ -8,7 +8,7 @@
         "description": "TV Shows and Movies from StreamingCommunity (Versione Modificata)",
         "url": "https://raw.githubusercontent.com/Dmberio/Stream/builds/StreamingCommunity.cs3",
         "iconUrl": "https://streamingunity.co/apple-touch-icon.png?v=2",
-        "version": 23,
+        "version": 25,
         "apiVersion": 1,
         "language": "it",
         "tvTypes": [
